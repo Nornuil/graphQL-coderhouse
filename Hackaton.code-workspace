@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Udemy\\github\\Hackaton"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\Curso Teco Javascrip"
+		},
+		{
+			"path": "..\\..\\..\\cursoTypescript"
+		},
+		{
+			"path": "..\\..\\..\\Alexis github"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cursoTypescript"
+	}
+}
